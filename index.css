@@ -1,0 +1,914 @@
+body{
+    background: url("https://365psd.ru/images/backgrounds/bg-light-4869.png");
+
+}
+.text-block {
+    position: absolute;
+    width: 1920px;
+    height: 3240px;
+    left: 0px;
+    top: 0px;
+}
+.text{
+    position: absolute;
+    width: 73px;
+    height: 24px;
+    left: 72px;
+    top: 21px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+
+}
+.rect{
+    position: absolute;
+    width: 2025px;
+    height: 58px;
+    left: 0px;
+    top: 0px;
+
+    background: #B2C731;
+}
+.text2{
+    position: absolute;
+    width: 118px;
+    height: 23px;
+    left: 182px;
+    top: 21px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+}
+.text3{
+    position: absolute;
+    width: 59px;
+    height: 23px;
+    left: 340px;
+    top: 21px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+}
+.text4
+{
+    position: absolute;
+    width: 178px;
+    height: 23px;
+    left: 443px;
+    top: 21px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+}
+.text5
+{
+    position: absolute;
+    width: 200px;
+    height: 23px;
+    left: 665px;
+    top: 21px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+
+}
+.text6
+{
+    position: absolute;
+    width: 92px;
+    height: 23px;
+    left: 867px;
+    top: 21px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+}
+.text7
+{
+    position: absolute;
+    width: 136px;
+    height: 19px;
+    left: 1490px;
+    top: 10px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+
+    color: #000000;
+}
+.text8
+{
+    position: absolute;
+    width: 175px;
+    height: 17px;
+    left: 1490px;
+    top: 31px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    font-feature-settings: 'tnum' on, 'lnum' on;
+
+    color: #000000;
+
+}
+.text9
+{
+    position: absolute;
+    width: 607px;
+    height: 137px;
+    left: 50px;
+    top: 95px;
+
+    font-family: Syncopate;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 41px;
+    line-height: 43px;
+    text-transform: uppercase;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+
+    color: #ffffff;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.text10
+{
+    position: absolute;
+    width: 382px;
+    height: 21px;
+    left: 125px;
+    top: 137px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #ffffff;
+    text-shadow: 2px 3px 1px rgba(255, 255, 255, 0.25);
+}
+.text11
+{
+    position: absolute;
+    width: 613px;
+    height: 97px;
+    left: 100px;
+    top: 1160px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 54px;
+    line-height: 63px;
+    text-transform: uppercase;
+    color: #662B2B;
+}
+.text12
+{
+    position: absolute;
+    width: 1168px;
+    height: 51px;
+    left: 100px;
+    top: 1225px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #505050;
+}
+.text13
+{
+    position: absolute;
+    width: 490px;
+    height: 146px;
+    left: 1350px;
+    top: 1245px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: uppercase;
+    color: #B70303;
+}
+.text14
+{
+    position: absolute;
+    width: 290px;
+    height: 146px;
+    left: 1655px;
+    top: 1325px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 40px;
+    text-transform: uppercase;
+    color: #B70303;
+}
+.text15
+{
+    position: absolute;
+    width: 99px;
+    height: 19px;
+    left: 833px;
+    top: 112px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.text16
+{
+    position: absolute;
+    width: 114px;
+    height: 17px;
+    left: 973px;
+    top: 111px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    color: #000000;
+}
+.text17
+{
+    position: absolute;
+    width: 99px;
+    height: 19px;
+    left: 1129px;
+    top: 112px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.text18
+{
+    position: absolute;
+    width: 99px;
+    height: 19px;
+    left: 1277px;
+    top: 112px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.text19
+{
+    position: absolute;
+    width: 188px;
+    height: 19px;
+    left: 1389px;
+    top: 112px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+.text20
+{
+    position: absolute;
+    width: 168px;
+    height: 38px;
+    left: 1350px;
+    top: 1503px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.text21
+{
+    position: absolute;
+    width: 98px;
+    height: 28px;
+    left: 1350px;
+    top: 1610px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+
+}
+.text22
+{
+    position: relative;
+    width: 780px;
+    height: 114px;
+    top: 2200px;
+    left:620px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FBEFEF;
+}
+.text23
+{
+    position: absolute;
+    width: 416px;
+    height: 84px;
+    top: 2540px;
+    left: 65px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: #EEE8E8;
+}
+.text24
+{
+    position: absolute;
+    width: 416px;
+    height: 64px;
+    top: 2585px;
+    left: 65px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+
+    color: #8B8686;
+}
+.text25
+{
+    position: absolute;
+    width: 460px;
+    height: 84px;
+    top: 2540px;
+    left: 530px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #EEE8E8;
+}
+.text26
+{
+    position: absolute;
+    width: 416px;
+    height: 64px;
+    top: 2585px;
+    left: 530px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+
+    color: #8B8686;
+}
+.text27
+{
+    position: absolute;
+    width: 460px;
+    height: 84px;
+    top: 2540px;
+    left: 1035px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #EEE8E8;
+
+}
+.text28
+{
+    position: absolute;
+    width: 416px;
+    height: 64px;
+    top: 2585px;
+    left: 1035px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+    color: #8B8686;
+}
+.text29
+{
+    position: absolute;
+    width: 460px;
+    height: 84px;
+    top: 2540px;
+    left: 1490px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: #EEE8E8;
+}
+.text30
+{
+    position: absolute;
+    width: 416px;
+    height: 64px;
+    top: 2585px;
+    left: 1490px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+    color: #8B8686;
+}
+.imggeolokation {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 25px;
+    top: 5px;
+    background: url(https://img.icons8.com/fluent-systems-regular/48/000000/user-location.png);
+}
+.imgtpyba
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1450px;
+    top: 8px;
+    background: url(https://mcreef.eu/images/webimages/phone-icon.png);
+    transform: rotate(19.89deg);
+}
+.imglove
+{
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 1750px;
+    top: 18px;
+    background: url("https://img.icons8.com/material-outlined/26/000000/like.png")
+}
+.imgtelega
+{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1802px;
+    top: 18px;
+    background: url("https://img.icons8.com/android/24/000000/buy.png")
+}
+.imgzamok
+{
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 1850px;
+    top: 17px;
+    background: url("https://img.icons8.com/metro/26/000000/lock.png")
+}
+.imgbad
+{
+    position: absolute;
+    width: 2025px;
+    height: 1080px;
+    left: 0px;
+    top: 50px;
+
+background: url("https://4.allegroimg.com/original/034aa6/b365f165428180adf10e34efd6a4");
+}
+.hkaf
+{
+    position: absolute;
+    width: 1200px;
+    height: 864px;
+    top: 1250px;
+    left: 100px;
+    background: url(https://i0.wp.com/infomebli.ru/wp-content/uploads/2018/09/GU031.jpg);
+}
+.button1 {
+    position: absolute;
+    width: 538px;
+    height: 166px;
+    left: 1089px;
+    top: 430px;
+    font-family: Be Vietnam;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 53px;
+    background: #B2C731;
+    border-radius: 83px;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 1.5s;
+}
+.button1:hover {
+    background: rgba(0, 0, 0, 0);
+    color: #ffffff;
+    box-shadow: inset 0 0 0 3px #B2C731;
+}
+.button2 {
+    position: absolute;
+    width: 160px;
+    height: 38px;
+    left: 625px;
+    top: 106px;
+    border: 3px solid rgba(33, 33, 32, 0.8);
+    box-sizing: border-box;
+    border-radius: 160px;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 0.5s;
+}
+.button2:hover {
+    background: rgba(0, 0, 0, 0);
+    color: #000000;
+    box-shadow: inset 0 0 0 3px #000000;
+}
+.button3 {
+    position: absolute;
+    width: 330px;
+    height: 58px;
+    left: 1500px;
+    top: 1490px;
+    background: rgba(196, 196, 196, 0.33);
+    border: 1px solid #252424;
+    box-sizing: border-box;
+    border-radius: 160px;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 0.5s;
+}
+.button3:hover {
+    background: rgba(0, 0, 0, 0);
+    color: #252424;
+    box-shadow: inset 0 0 0 3px #252424;
+}
+.button4 {
+    position: absolute;
+    width: 330px;
+    height: 58px;
+    left: 1500px;
+    top: 1595px;
+    background: rgba(196, 196, 196, 0.33);
+    border: 1px solid #252424;
+    box-sizing: border-box;
+    border-radius: 160px;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 0.5s;
+}
+.button4:hover {
+    background: rgba(0, 0, 0, 0);
+    color: #252424;
+    box-shadow: inset 0 0 0 3px #252424;
+}
+.rect1 {
+    position: absolute;
+    width: 2025px;
+    height: 880px;
+    top: 1900px;
+
+    background: #B2C731;
+}
+.button5
+{
+    position: absolute;
+    width: 340px;
+    height: 70px;
+    left: 1500px;
+    top: 1700px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 30px;
+    background: #B2C731;
+    border-radius: 500px;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 1.5s
+}
+.button5:hover {
+    background: rgba(0, 0, 0, 0);
+    color: #000000;
+    box-shadow: inset 0 0 0 3px #000000;
+}
+.dama
+{
+    position: absolute;
+    width: 178px;
+    height: 200px;
+    top: 2320px;
+    left: 170px;
+    background: url(https://socialnie-seti.info/wp-content/uploads/2012/10/l8rS70-178x200.png);
+}
+.proect
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 2320px;
+    left: 649px;
+    background: url(https://static.thenounproject.com/png/716202-200.png)
+}
+.bloknot
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 2320px;
+    left: 1110px;
+    background: url(https://static.thenounproject.com/png/783177-200.png)
+}
+.dostavka
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 2320px;
+    left: 1580px;
+    background: url(https://static.thenounproject.com/png/1065309-200.png)
+}
+.text31{
+    position: absolute;
+    width: 900px;
+    height: 78px;
+    top: 2800px;
+    left: 600px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: rgba(0, 0, 0, 0.79);
+
+}
+.text32{
+
+    position: absolute;
+    width: 431px;
+    height: 68px;
+    top: 3050px;
+    left: 80px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #000000;
+
+}
+.text33{
+    position: absolute;
+    width: 356px;
+    height: 68px;
+    top: 3100px;
+    left: 80px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #5E5C5C;
+}
+
+.text34{
+
+    position: absolute;
+    width: 700px;
+    height: 68px;
+    top: 3050px;
+    left: 620px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #000000;
+
+}
+.text35{
+    position: absolute;
+    width: 523px;
+    height: 68px;
+    top: 3100px;
+    left: 620px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #5E5C5C;
+
+}
+
+.text36{
+    position: absolute;
+    width: 700px;
+    height: 68px;
+    top: 3050px;
+    left: 1320px;
+
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #000000;
+
+}
+.text37{
+    position: absolute;
+    width: 669px;
+    height: 68px;
+    top: 3100px;
+    left: 1320px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #5E5C5C;
+}
+
+.text38{
+    position: absolute;
+    width: 888px;
+    height: 76px;
+    top: 3200px;
+    left: 70px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #3F3C3C;
+}
+.rect2{
+    position: absolute;
+    width: 300px;
+    height: 64px;
+    top: 3200px;
+    left: 1000px;
+
+    border: 2px solid #000000;
+    box-sizing: border-box;
+}
+
+.text39{
+    position: absolute;
+    width: 249px;
+    height: 34px;
+    top: 3220px;
+    left: 1020px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: rgba(0, 0, 0, 0.65);
+}
+.text40{
+    position: absolute;
+    width: 183px;
+    height: 32px;
+    top: 3215px;
+    left: 1395px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+
+    color: #EBE6E6;
+
+}
+.galka
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 2900px;
+    left: 200px;
+    background: url(https://atego-tour.ru/thumb/2/U-cfkioT8P9hs7Li3Xjaug/100r/d/54423298_2_03_1.png)
+}
+.zavod
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 2900px;
+    left: 815px;
+    background: url(https://rekfas.ru/images/icon1.png);
+}
+.listok
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 2900px;
+    left: 1550px;
+    background: url(http://manojcargo.com/wp-content/uploads/2019/03/Manoj-Cargo-Client-registration-icon-e1553264431530.png)
+}
+.button6
+{
+    position: absolute;
+    width: 263px;
+    height: 71px;
+    top: 3195px;
+    left: 1350px;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 1.5s;
+    background: #B2C731;
+    border-radius: 200px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+
+}
+.button6:hover {
+    background: rgba(0, 0, 0, 0);
+    color: #000000;
+    box-shadow: inset 0 0 0 3px #000000;
+}
