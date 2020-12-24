@@ -1,0 +1,2279 @@
+body{
+    background: url("https://365psd.ru/images/backgrounds/bg-light-4869.png");
+    margin: 0;    padding: 0;}
+.imggeolokation {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    right: 78%;
+    top: 5px;
+    background: url(https://img.icons8.com/fluent-systems-regular/48/000000/user-location.png);
+}
+.blok_topline1{
+    width: 50%;
+    height: 50px;
+    background: #B2C731;
+    float: left;
+    text-align: right;
+    line-height: 50px;
+    font-size: 20px;
+
+}
+
+.blok_topline2{
+    width: 33%;
+    height: 50px;
+    background: #B2C731;
+    float: left;
+    text-align: left;
+    line-height: 50px;
+    font-size: 20px;
+
+}
+
+.blok_nomer{
+    width: 17%;
+    height: 50px;
+    background: #B2C731;
+    float: left;
+    text-align: left;
+    line-height: 50px;
+
+}
+.blok_menu1{
+    position: absolute;
+    left: 48%;
+    top: 135px;
+    width: 25%;
+    height: 50px;
+    text-align: right;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    float: left;
+    color: #000000;
+}
+.blok_menu2 {
+    position: absolute;
+    left: 73%;
+    top: 135px;
+    width: 25%;
+    height: 50px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    float: left;
+    color: #000000;
+}
+.text_nomer{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 12px;
+    text-transform: uppercase;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+}
+.imgtpyba
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 80%;
+    top: 8px;
+    background: url(https://mcreef.eu/images/webimages/phone-icon.png);
+    transform: rotate(19.89deg);
+}
+.imgbad
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 50px;
+background: url("https://4.allegroimg.com/original/034aa6/b365f165428180adf10e34efd6a4");
+}
+.imglove
+{
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 93%;
+    top: 18px;
+    background: url("https://img.icons8.com/material-outlined/26/000000/like.png")
+}
+.imgtelega
+{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 95%;
+    top: 18px;
+    background: url("https://img.icons8.com/android/24/000000/buy.png")
+}
+.imgzamok
+{
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 97%;
+    top: 17px;
+    background: url("https://img.icons8.com/metro/26/000000/lock.png")
+}
+.text_Woodenparadise
+{
+    position: absolute;
+    left: 3%;
+    top: 105px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 47%;
+    height: 50px;
+    float: left;
+    text-align: center;
+    font-family: Syncopate;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 43px;
+
+    color: #ffffff;
+    }
+.text_time-tested {
+    position: absolute;
+    width: 47%;
+    height: 50px;
+    float: left;
+    left: 3%;
+    top: 143px;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #ffffff;
+    text-shadow: 2px 3px 1px rgba(255, 255, 255, 0.25);
+}
+.button_buy {
+    position: absolute;
+    width: 538px;
+    height: 166px;
+    left: 56.7%;
+    top: 430px;
+    font-family: Be Vietnam;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 53px;
+    background: #B2C731;
+    border-radius: 83px;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 1.5s;
+}
+.button_buy:hover {
+    background: rgba(0, 0, 0, 0);
+    color: #000000;
+    box-shadow: inset 0 0 0 3px #B2C731;
+}
+.text_custom-made
+{
+    position: absolute;
+    width: 613px;
+    height: 97px;
+    left: 5.2%;
+    top: 1360px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 54px;
+    line-height: 63px;
+    text-transform: uppercase;
+    color: #662B2B;
+}
+.text_furniture-making
+{
+    position: absolute;
+    width: 62.5%;
+    height: 51px;
+    left: 5.2%;
+    top: 1425px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #505050;
+}
+.hkaf
+{
+    position: absolute;
+    width: 62.5%;
+    top: 1450px;
+    left: 5.2%;
+    background: url(https://i0.wp.com/infomebli.ru/wp-content/uploads/2018/09/GU031.jpg);
+}
+.text_free_project
+{
+    position: absolute;
+    width: 26%;
+    height: 146px;
+    left: 71%;
+    top: 1445px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: uppercase;
+    color: #B70303;
+}
+.text_yourname
+{
+    position: absolute;
+    width: 168px;
+    height: 38px;
+    left: 70.3%;
+    top: 1673px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.text_phone
+{
+    position: absolute;
+    width: 68px;
+    height: 28px;
+    left: 70.3%;
+    top: 1780px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+
+}
+.button_yourname {
+    position: absolute;
+    width: 20%;
+    height: 58px;
+    left: 78.125%;
+    top: 1655px;
+    background: rgba(196, 196, 196, 0.33);
+    border: 1px solid #252424;
+    box-sizing: border-box;
+    border-radius: 160px;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 0.5s;
+}
+.button_yourname:hover {
+    background: rgba(0, 0, 0, 0);
+    color: #252424;
+    box-shadow: inset 0 0 0 3px #252424;
+}
+.button_phone {
+    position: absolute;
+    width: 20%;
+    height: 58px;
+    left: 78.125%;
+    top: 1760px;
+    background: rgba(196, 196, 196, 0.33);
+    border: 1px solid #252424;
+    box-sizing: border-box;
+    border-radius: 160px;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 0.5s;
+}
+.button_phone:hover {
+    background: rgba(0, 0, 0, 0);
+    color: #252424;
+    box-shadow: inset 0 0 0 3px #252424;
+}
+.button_request
+{
+    position: absolute;
+    width: 20%;
+    height: 70px;
+    left: 78.125%;
+    top: 1900px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    background: #B2C731;
+    border-radius: 500px;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 1.5s
+}
+.button_request:hover {
+    background: rgba(0, 0, 0, 0);
+    color: #000000;
+    box-shadow: inset 0 0 0 3px #000000;
+}
+.rect_green {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    height: 880px;
+    top: 2000px;
+
+    background: #B2C731;
+}
+.dama
+{
+    position: absolute;
+    width: 178px;
+    height: 200px;
+    top: 2450px;
+    left: 6%;
+    background: url(https://socialnie-seti.info/wp-content/uploads/2012/10/l8rS70-178x200.png);
+}
+.proect
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 2450px;
+    left: 29%;
+    background: url(https://static.thenounproject.com/png/716202-200.png)
+}
+.bloknot
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 2450px;
+    left: 53%;
+    background: url(https://static.thenounproject.com/png/783177-200.png)
+}
+.dostavka
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 2450px;
+    left: 78%;
+    background: url(https://static.thenounproject.com/png/1065309-200.png)
+}
+.text_yourcall
+{
+    position: absolute;
+    width: 23%;
+    height: 84px;
+    top: 2660px;
+    left: 2%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 42px;
+    color: #EEE8E8;
+}
+.text_consultation
+{
+    position: absolute;
+    width: 23%;
+    height: 64px;
+    top: 2705px;
+    left: 2%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+
+    color: #8B8686;
+}
+.text_design_project
+{
+    position: absolute;
+    width: 25%;
+    height: 84px;
+    top: 2660px;
+    left: 25%;;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 42px;
+
+    color: #EEE8E8;
+}
+.text_measurer
+{
+    position: absolute;
+    width: 22%;
+    height: 64px;
+    top: 2705px;
+    left: 25%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+
+    color: #8B8686;
+}
+.text_design_project_approval
+{
+    position: absolute;
+    width: 25%;
+    height: 84px;
+    top: 2660px;
+    left: 50%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 42px;
+
+    color: #EEE8E8;
+
+}
+.text_choice_of_materials
+{
+    position: absolute;
+    width: 22%;
+    height: 64px;
+    top: 2705px;
+    left: 50%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    color: #8B8686;
+}
+.text_making_delivery
+{
+    position: absolute;
+    top: 2660px;
+    width: 25%;
+    left: 75%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 42px;
+    color: #EEE8E8;
+}
+.text_time_of_delivery
+{
+    position: absolute;
+    width: 24%;
+    top: 2705px;
+    left: 75%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    color: #8B8686;
+}
+.text_why_me
+{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    height: 78px;
+    top: 2900px;
+    left: 0;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: rgba(0, 0, 0, 0.79);
+
+}
+.text_quality
+{
+
+    position: absolute;
+    width: 24%;
+    height: 68px;
+    top: 3150px;
+    left: 3%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 47px;
+
+    color: #000000;
+
+}
+.text_warranty_period
+{
+    position: absolute;
+    width: 24%;
+    height: 68px;
+    top: 3200px;
+    left: 3%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+
+    color: #5E5C5C;
+}
+
+.text_own_production{
+
+    position: absolute;
+    width: 36%;
+    height: 68px;
+    top: 3150px;
+    left: 27%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 47px;
+
+    color: #000000;
+
+}
+.text_with1991
+{
+    position: absolute;
+    width: 36%;
+    height: 68px;
+    top: 3200px;
+    left: 27%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+
+    color: #5E5C5C;
+
+}
+
+.text_certified_materials
+{
+    position: absolute;
+    width: 40%;
+    height: 68px;
+    top: 3150px;
+    left: 60%;
+
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 47px;
+
+    color: #000000;
+
+}
+.text_ecology
+{
+    position: absolute;
+    width: 40%;
+    height: 68px;
+    top: 3200px;
+    left: 60%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+
+    color: #5E5C5C;
+}
+
+.text_subscribe
+{
+    position: absolute;
+    width: 50%;
+    height: 76px;
+    top: 3300px;
+    left: 2%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #3F3C3C;
+}
+.rect_email{
+    position: absolute;
+    width: 25%;
+    height: 64px;
+    top: 3300px;
+    left: 50%;
+
+    border: 2px solid #000000;
+    box-sizing: border-box;
+}
+
+.text_email
+{
+    position: absolute;
+    width: 25%;
+    height: 34px;
+    top: 3320px;
+    left: 52%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+
+    color: rgba(0, 0, 0, 0.65);
+}
+
+.button_subscribe
+{
+    position: absolute;
+    width: 20%;
+    height: 71px;
+    top: 3295px;
+    left: 76%;
+    cursor: pointer;
+    display: inline-block;
+    transition-duration: 1.5s;
+    background: #B2C731;
+    border-radius: 200px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+
+}
+.button_subscribe:hover {
+    background: rgba(0, 0, 0, 0);
+    color: #000000;
+    box-shadow: inset 0 0 0 3px #000000;
+}
+.galka
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 3030px;
+    left: 9%;
+    background: url(https://atego-tour.ru/thumb/2/U-cfkioT8P9hs7Li3Xjaug/100r/d/54423298_2_03_1.png)
+}
+.zavod
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 3030px;
+    left: 38%;
+    background: url(https://rekfas.ru/images/icon1.png);
+}
+.listok {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 3030px;
+    left: 74%;
+    background: url(http://manojcargo.com/wp-content/uploads/2019/03/Manoj-Cargo-Client-registration-icon-e1553264431530.png)
+}
+@media screen and (max-width: 850px) {
+    .blok_topline1 {
+        width: 100%;
+        text-align: left;
+    }
+
+    .blok_topline2 {
+        width: 50%;
+    }
+
+    .blok_nomer {
+        width: 50%
+    }
+
+    .imgbad {
+        top: 100px;
+    }
+
+    .imggeolokation {
+        left: 1%;
+    }
+
+    .imgtpyba {
+        top: 57px;
+        left: 44%;
+    }
+
+    .imglove {
+        top: 60px;
+        left: 85%;
+    }
+
+    .imgtelega {
+        top: 60px;
+        left: 90%;
+    }
+
+    .imgzamok {
+        top: 60px;
+        left: 95%;
+    }
+
+    .text_Woodenparadise {
+        left: 0;
+        width: 100%;
+        font-size: 36px;
+    }
+
+    .text_time-tested {
+        left: 0;
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .blok_menu1
+    {
+        width: 100%;
+        left: 20%;
+        top: 170px;
+        text-align: left;
+    }
+    .blok_menu2
+    {
+        width: 100%;
+        left: 30%;
+        top: 215px;
+    }
+    .button_buy
+    {
+        width: 350px;
+        height: 100px;
+        font-size: 26px;
+        line-height: 36px;
+        left: 40%;
+        top: 370px;
+    }
+    .text_custom-made
+    {
+        left: 0;
+        font-size: 42px;
+        line-height: 40px;
+        top: 680px;
+    }
+    .text_furniture-making
+    {
+        left: 0;
+        font-size: 14px;
+        line-height: 10px;
+        top: 720px;
+    }
+    .hkaf
+    {
+        width: 100%;
+        top: 760px;
+        left: 0;
+    }
+    .text_free_project
+    {
+        left: 15%;
+        top: 1370px;
+    }
+    .text_yourname
+    {
+        left: 15%;
+        top: 1670px;
+    }
+    .text_phone
+    {
+        left: 15%;
+        top: 1770px;
+    }
+    .button_yourname
+    {
+        left: 35%;
+        top: 1655px;
+    }
+    .button_phone
+    {
+        left: 35%;
+        top: 1755px;
+    }
+    .button_request
+    {
+        left: 35%;
+        top: 1910px;
+    }
+    .rect_green
+    {
+        top: 2020px;
+        height: 860px;
+    }
+    .dama {
+        top: 2100px;
+        left: 8%;
+    }
+    .proect
+    {
+        top: 2100px;
+        left: 56%;
+    }
+    .bloknot
+    {
+        top: 2500px;
+        left: 6%;
+    }
+    .dostavka
+    {
+        top: 2500px;
+        left: 56%;
+    }
+    .text_yourcall
+    {
+        top: 2320px;
+        left: 1%;
+        font-size: 24px;
+    }
+    .text_consultation
+    {
+        top: 2360px;
+        left: 1%;
+        width: 45%;
+        font-size: 14px;
+    }
+    .text_design_project
+    {
+        top: 2320px;
+        left: 50%;
+        font-size: 24px;
+    }
+    .text_measurer
+    {
+        top: 2360px;
+        left: 50%;
+        width: 50%;
+        font-size: 14px;
+    }
+    .text_design_project_approval
+    {
+        top: 2710px;
+        left: 1%;
+        font-size: 24px;
+    }
+    .text_choice_of_materials
+    {
+        top: 2750px;
+        left: 1%;
+        width: 40%;
+        font-size: 14px;
+    }
+    .text_making_delivery
+    {
+        top: 2710px;
+        width: 60%;
+        left: 50%;
+        font-size: 24px;
+    }
+    .text_time_of_delivery
+    {
+        top: 2750px;
+        left: 50%;
+        width: 50%;
+        font-size: 14px;
+    }
+    .text_why_me
+    {
+        position: absolute;
+        width: 100%;
+        height: 78px;
+        text-align: center;
+        top: 2900px;
+        left: 0;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 56px;
+
+        color: rgba(0, 0, 0, 0.79);
+
+    }
+    .text_quality
+    {
+
+        position: absolute;
+        height: 68px;
+        top: 3010px;
+        left: 130px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 47px;
+
+        color: #000000;
+
+    }
+    .text_warranty_period
+    {
+        position: absolute;
+        height: 68px;
+        top: 3050px;
+        left: 130px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 28px;
+
+        color: #5E5C5C;
+    }
+
+    .text_own_production
+    {
+
+        position: absolute;
+        height: 68px;
+        top: 3160px;
+        left: 130px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 47px;
+
+        color: #000000;
+
+    }
+    .text_with1991
+    {
+        position: absolute;
+        height: 68px;
+        top: 3200px;
+        left: 130px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 18px;
+
+        color: #5E5C5C;
+
+    }
+
+    .text_certified_materials
+    {
+        position: absolute;
+        height: 68px;
+        top: 3310px;
+        left: 130px;
+
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 47px;
+
+        color: #000000;
+
+    }
+    .text_ecology
+    {
+        position: absolute;
+        height: 68px;
+        top: 3350px;
+        left: 130px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 18px;
+
+        color: #5E5C5C;
+    }
+
+    .text_subscribe
+    {
+        position: absolute;
+        width: 600px;
+        height: 76px;
+        top: 3440px;
+        left: 20px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 42px;
+
+        color: #3F3C3C;
+    }
+    .rect_email{
+        position: absolute;
+        width: 200px;
+        height: 44px;
+        top: 3508px;
+        left: 20px;
+
+        border: 2px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .text_email
+    {
+        position: absolute;
+        width: 249px;
+        height: 34px;
+        top: 3515px;
+        left: 54px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 28px;
+
+        color: rgba(0, 0, 0, 0.65);
+    }
+    .button_subscribe
+    {
+        position: absolute;
+        width: 200px;
+        height: 51px;
+        top: 3502px;
+        left: 300px;
+        cursor: pointer;
+        display: inline-block;
+        transition-duration: 1.5s;
+        background: #B2C731;
+        border-radius: 200px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 33px;
+
+    }
+    .button_subscribe:hover {
+        background: rgba(0, 0, 0, 0);
+        color: #000000;
+        box-shadow: inset 0 0 0 3px #000000;
+    }
+    .galka
+    {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        top: 3000px;
+        left: 0;
+        background: url(https://atego-tour.ru/thumb/2/U-cfkioT8P9hs7Li3Xjaug/100r/d/54423298_2_03_1.png)
+    }
+    .zavod
+    {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        top: 3150px;
+        left: 0;
+        background: url(https://rekfas.ru/images/icon1.png);
+    }
+    .listok {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        top: 3300px;
+        left: 0;
+        background: url(http://manojcargo.com/wp-content/uploads/2019/03/Manoj-Cargo-Client-registration-icon-e1553264431530.png)
+    }
+}
+@media screen and (min-width: 851px) and (max-width: 1024px) {
+    .blok_topline1 {
+        width: 100%;
+        text-align: left;
+    }
+
+    .blok_topline2 {
+        width: 50%;
+    }
+
+    .blok_nomer {
+        width: 50%
+    }
+
+    .imgbad {
+        top: 100px;
+    }
+
+    .imggeolokation {
+        left: 1%;
+    }
+
+    .imgtpyba {
+        top: 57px;
+        left: 44%;
+    }
+
+    .imglove {
+        top: 60px;
+        left: 85%;
+    }
+
+    .imgtelega {
+        top: 60px;
+        left: 90%;
+    }
+
+    .imgzamok {
+        top: 60px;
+        left: 95%;
+    }
+
+    .text_Woodenparadise {
+        left: 0;
+        width: 100%;
+        font-size: 36px;
+    }
+
+    .text_time-tested {
+        left: 0;
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .blok_menu1 {
+        width: 49%;
+        left: 3%;
+        top: 165px;
+        text-align: right;
+    }
+
+    .blok_menu2 {
+        width: 47%;
+        left: 52%;
+        top: 165px;
+    }
+
+    .button_buy {
+        width: 350px;
+        height: 100px;
+        font-size: 26px;
+        line-height: 36px;
+        left: 40%;
+        top: 370px;
+    }
+
+    .text_custom-made {
+        left: 3%;
+        width: 97%;
+        font-size: 42px;
+        line-height: 42px;
+        top: 795px;
+    }
+
+    .text_furniture-making {
+        left: 3%;
+        width: 95%;
+        font-size: 16px;
+        line-height: 20px;
+        top: 835px;
+    }
+
+    .hkaf {
+        width: 97%;
+        top: 900px;
+        left: 3%;
+    }
+
+    .text_free_project
+    {
+        left: 15%;
+        width: 80%;
+        top: 1700px;
+    }
+    .text_yourname
+    {
+        left: 15%;
+        width: 85%;
+        top: 1900px;
+    }
+    .text_phone
+    {
+        left: 15%;
+        width: 85%;
+        top: 2000px;
+    }
+    .button_yourname
+    {
+        left: 35%;
+        width: 40%;
+        top: 1885px;
+    }
+    .button_phone
+    {
+        left: 35%;
+        width: 40%;
+        top: 1985px;
+    }
+    .button_request
+    {
+        left: 35%;
+        width: 40%;
+        top: 2160px;
+    }
+    .rect_green
+    {
+        top: 2250px;
+        height: 950px;
+    }
+    .dama {
+        top: 2400px;
+        left: 10%;
+    }
+    .proect
+    {
+        top: 2400px;
+        left: 60%;
+    }
+    .bloknot
+    {
+        top: 2800px;
+        left: 10%;
+    }
+    .dostavka
+    {
+        top: 2800px;
+        left: 60%;
+    }
+    .text_yourcall
+    {
+        top: 2620px;
+        left: 3%;
+        width: 47%;
+        font-size: 24px;
+    }
+    .text_consultation
+    {
+        top: 2650px;
+        left: 3%;
+        width: 47%;
+        font-size: 14px;
+    }
+    .text_design_project
+    {
+        top: 2620px;
+        left: 52%;
+        width: 47%;
+        font-size: 24px;
+    }
+    .text_measurer
+    {
+        top: 2650px;
+        left: 52%;
+        width: 47%;
+        font-size: 14px;
+    }
+    .text_design_project_approval
+    {
+        top: 3000px;
+        left: 3%;
+        width: 47%;
+        font-size: 24px;
+    }
+    .text_choice_of_materials
+    {
+        top: 3030px;
+        left: 3%;
+        width: 47%;
+        font-size: 14px;
+    }
+    .text_making_delivery
+    {
+        top: 3000px;
+        left: 52%;
+        width: 47%;
+        font-size: 24px;
+    }
+    .text_time_of_delivery
+    {
+        top: 3030px;
+        left: 52%;
+        width: 47%;
+        font-size: 14px;
+    }
+    .text_why_me
+    {
+        position: absolute;
+        width: 100%;
+        height: 78px;
+        top: 3250px;
+        left: 0;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 56px;
+
+        color: rgba(0, 0, 0, 0.79);
+
+    }
+    .text_quality
+    {
+
+        position: absolute;
+        height: 68px;
+        top: 3350px;
+        left: 25%;
+        width: 75%;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 47px;
+
+        color: #000000;
+
+    }
+    .text_warranty_period
+    {
+        position: absolute;
+        height: 68px;
+        top: 3390px;
+        width: 75%;
+        left: 25%;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        color: #5E5C5C;
+    }
+
+    .text_own_production
+    {
+
+        position: absolute;
+        height: 68px;
+        top: 3500px;
+        width: 75%;
+        left: 25%;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 47px;
+
+        color: #000000;
+
+    }
+    .text_with1991
+    {
+        position: absolute;
+        height: 68px;
+        top: 3545px;
+        width: 75%;
+        left: 25%;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 18px;
+
+        color: #5E5C5C;
+
+    }
+
+    .text_certified_materials
+    {
+        position: absolute;
+        height: 68px;
+        top: 3650px;
+        width: 75%;
+        left: 25%;
+
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 47px;
+
+        color: #000000;
+
+    }
+    .text_ecology
+    {
+        position: absolute;
+        height: 68px;
+        top: 3690px;
+        width: 70%;
+        left: 25%;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 18px;
+
+        color: #5E5C5C;
+    }
+
+    .text_subscribe
+    {
+        position: absolute;
+        width: 40%;
+        height: 76px;
+        top: 3800px;
+        left: 3%;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 20px;
+
+        color: #3F3C3C;
+    }
+    .rect_email{
+        position: absolute;
+        width: 25%;
+        height: 52px;
+        top: 3800px;
+        left: 45%;
+
+        border: 2px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .text_email
+    {
+        position: absolute;
+        width: 25%;
+        height: 34px;
+        top: 3810px;
+        left: 46%;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 28px;
+
+        color: rgba(0, 0, 0, 0.65);
+    }
+    .button_subscribe
+    {
+        position: absolute;
+        width: 23%;
+        height: 51px;
+        top: 3800px;
+        left: 72%;
+        cursor: pointer;
+        display: inline-block;
+        transition-duration: 1.5s;
+        background: #B2C731;
+        border-radius: 200px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 33px;
+
+    }
+    .button_subscribe:hover {
+        background: rgba(0, 0, 0, 0);
+        color: #000000;
+        box-shadow: inset 0 0 0 3px #000000;
+    }
+    .galka
+    {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        top: 3330px;
+        left: 9%;
+        background: url(https://atego-tour.ru/thumb/2/U-cfkioT8P9hs7Li3Xjaug/100r/d/54423298_2_03_1.png)
+    }
+    .zavod
+    {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        top: 3480px;
+        left: 9%;
+        background: url(https://rekfas.ru/images/icon1.png);
+    }
+    .listok {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        top: 3630px;
+        left: 10%;
+        background: url(http://manojcargo.com/wp-content/uploads/2019/03/Manoj-Cargo-Client-registration-icon-e1553264431530.png)
+    }
+}
+@media screen and (min-width: 1025px) and (max-width: 1480px) {
+    .blok_topline1{
+        width: 47%;
+        font-size: 17px;
+        }
+    .blok_topline2{
+        width: 27%;
+        font-size: 17px;
+    }
+    .blok_nomer{
+        width: 26%;
+        font-size: 7px;
+    }
+    .blok_menu1{
+        top: 135px;
+        left: 70px;
+    }
+    .blok_menu2{
+        top: 135px;
+        left: 450px;
+    }
+    .imgtpyba{
+        left: 70%;
+    }
+    .imggeolokation{
+        left: 2%;
+    }
+    .imglove{
+        left: 91%;
+    }
+    .imgtelega{
+        left: 94%;
+    }
+    .imgzamok {
+        left: 97%;
+    }
+    .text_Woodenparadise {
+        left: 5%;
+        width: 95%;
+        text-align: left;
+        top: 75px;
+        font-size: 36px;
+    }
+    .text_time-tested {
+        left: 5%;
+        width: 95%;
+        text-align: left;
+        top: 110px;
+        font-size: 20px;
+    }
+    .button_buy {
+        position: absolute;
+        width: 400px;
+        height: 126px;
+        left: 45%;
+        font-size: 32px;
+    }
+    .text_custom-made {
+        left: 3%;
+        font-size: 42px;
+        line-height: 42px;
+        top: 1100px;
+    }
+    .text_furniture-making {
+        left: 3%;
+        height: 10px;
+        font-size: 14px;
+        line-height: 20px;
+        top: 1150px;
+    }
+    .hkaf {
+        position: absolute;
+        width: 62%;
+        top: 1200px;
+        left: 3%;
+    }
+    .text_free_project {
+        left: 67%;
+        width: 30%;
+        font-size: 20px;
+        top: 1200px;
+    }
+    .text_yourname {
+        left: 67%;
+        width: 30%;
+        font-size: 20px;
+        top: 1330px;
+    }
+    .text_phone {
+        left: 67%;
+        width: 30%;
+        font-size: 20px;
+        top: 1450px;
+    }
+    .button_yourname
+    {
+        left: 70%;
+        top: 1380px;
+    }
+    .button_phone
+    {
+        left: 70%;
+        font-size: 24px;
+        top: 1500px;
+    }
+    .button_request
+    {
+        left: 70%;
+        top: 1600px;
+    }
+    .rect_green {
+        height: 880px;
+        top: 1800px;
+        background: #B2C731;
+    }
+
+
+    .dama {
+        top: 1850px;
+        left: 14%;
+    }
+    .proect
+    {
+        top: 1850px;
+        left: 62%;
+    }
+    .bloknot
+    {
+        top: 2200px;
+        left: 14%;
+    }
+    .dostavka
+    {
+        top: 2200px;
+        left: 62%;
+    }
+    .text_yourcall
+    {
+        top: 2050px;
+        width: 41%;
+        left: 5%;
+        font-size: 30px;
+    }
+    .text_consultation
+    {
+        top: 2100px;
+        left: 5%;
+        width: 41%;
+        font-size: 20px;
+    }
+    .text_design_project
+    {
+        top: 2050px;
+        left: 59%;
+        width: 41%;
+        font-size: 30px;
+    }
+    .text_measurer
+    {
+        top: 2100px;
+        left: 59%;
+        width: 41%;
+        font-size: 20px;
+    }
+    .text_design_project_approval
+    {
+        top: 2400px;
+        left: 5%;
+        width: 41%;
+        font-size: 30px;
+    }
+    .text_choice_of_materials
+    {
+        top: 2450px;
+        left: 5%;
+        width: 41%;
+        font-size: 20px;
+    }
+    .text_making_delivery
+    {
+        top: 2400px;
+        left: 59%;
+        width: 41%;
+        font-size: 30px;
+    }
+    .text_time_of_delivery
+    {
+        top: 2450px;
+        left: 59%;
+        width: 41%;
+        font-size: 20px;
+    }
+    .text_why_me
+    {
+        position: absolute;
+        height: 78px;
+        top: 2700px;
+        left: 0;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 56px;
+
+        color: rgba(0, 0, 0, 0.79);
+
+    }
+    .text_quality{
+
+        position: absolute;
+        height: 68px;
+        width: 80%;
+        top: 2800px;
+        left: 20%;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 47px;
+
+        color: #000000;
+
+    }
+    .text_warranty_period
+    {
+        position: absolute;
+        height: 68px;
+        width: 80%;
+        top: 2850px;
+        left: 20%;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+
+        color: #5E5C5C;
+    }
+
+    .text_own_production
+    {
+
+        position: absolute;
+        height: 68px;
+        width: 80%;
+        top: 2950px;
+        left: 20%;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 47px;
+
+        color: #000000;
+
+    }
+    .text_with1991
+    {
+        position: absolute;
+        height: 68px;
+        width: 80%;
+        top: 3000px;
+        left: 20%;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 18px;
+
+        color: #5E5C5C;
+
+    }
+
+    .text_certified_materials
+    {
+        position: absolute;
+        height: 68px;
+        width: 80%;
+        top: 3100px;
+        left: 20%;
+
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 47px;
+
+        color: #000000;
+
+    }
+    .text_ecology
+    {
+        position: absolute;
+        height: 68px;
+        width: 80%;
+        top: 3150px;
+        left: 20%;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 18px;
+
+        color: #5E5C5C;
+    }
+
+    .text_subscribe{
+        position: absolute;
+        width: 25%;
+        height: 76px;
+        top: 3250px;
+        left: 3%;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 22px;
+
+        color: #3F3C3C;
+    }
+    .rect_email{
+        position: absolute;
+        width: 25%;
+        height: 52px;
+        top: 3250px;
+        left: 30%;
+
+        border: 2px solid #000000;
+        box-sizing: border-box;
+    }
+
+    .text_email{
+        position: absolute;
+        width: 23%;
+        height: 34px;
+        top: 3260px;
+        left: 32%;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 28px;
+
+        color: rgba(0, 0, 0, 0.65);
+    }
+    .button_subscribe
+    {
+        position: absolute;
+        width: 25%;
+        height: 51px;
+        top: 3250px;
+        left: 58%;
+        cursor: pointer;
+        display: inline-block;
+        transition-duration: 1.5s;
+        background: #B2C731;
+        border-radius: 200px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 33px;
+
+    }
+    .button_subscribe:hover {
+        background: rgba(0, 0, 0, 0);
+        color: #000000;
+        box-shadow: inset 0 0 0 3px #000000;
+    }
+    .galka
+    {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        top: 2790px;
+        left: 9%;
+        background: url(https://atego-tour.ru/thumb/2/U-cfkioT8P9hs7Li3Xjaug/100r/d/54423298_2_03_1.png)
+    }
+    .zavod
+    {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        top: 2930px;
+        left: 9%;
+        background: url(https://rekfas.ru/images/icon1.png);
+    }
+    .listok {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        top: 3100px;
+        left: 9%;
+        background: url(http://manojcargo.com/wp-content/uploads/2019/03/Manoj-Cargo-Client-registration-icon-e1553264431530.png)
+    }
+
+
+
+
+}
+@media screen and (min-width: 1481px) and (max-width: 1620px) {
+    .blok_topline1{
+        width: 40%;
+    }
+    .blok_topline2{
+        width: 30%;
+    }
+    .blok_nomer{
+        width: 30%;
+    }
+    .imgtpyba{
+        left: 66%;
+    }
+    .imggeolokation{
+        left: 1%;
+    }
+    .imglove{
+        left: 91%;
+    }
+    .imgtelega{
+        left: 93%;
+    }
+    .imgzamok {
+        left: 95%;
+    }
+
+    .blok_menu1{
+        top: 135px;
+        width: 23%;
+        font-size: 24px;
+        left: 50%;
+    }
+    .blok_menu2{
+        top: 135px;
+        font-size: 24px;
+        width: 23%;
+        left: 73%;
+    }
+    .text_custom-made{
+        left: 3%;
+        font-size: 42px;
+        line-height: 42px;
+        top: 1100px;
+    }
+    .text_furniture-making{
+        left: 3%;
+        height: 10px;
+        font-size: 14px;
+        line-height: 20px;
+        top: 1150px;
+    }
+    .hkaf {
+        position: absolute;
+        width: 62%;
+        top: 1180px;
+        left: 3%;
+    }
+    .text_free_project {
+        left: 67%;
+        width: 27%;
+        font-size: 20px;
+        top: 1200px;
+    }
+    .text_yourname {
+        left: 67%;
+        width: 30%;
+        font-size: 20px;
+        top: 1330px;
+    }
+    .text_phone {
+        left: 67%;
+        width: 30%;
+        font-size: 20px;
+        top: 1450px;
+    }
+    .button_yourname
+    {
+        left: 70%;
+        top: 1380px;
+    }
+    .button_phone
+    {
+        left: 70%;
+        font-size: 24px;
+        top: 1500px;
+    }
+    .button_request
+    {
+        left: 70%;
+        top: 1600px;
+    }
+    .rect_green {
+        height: 680px;
+        top: 1800px;
+        background: #B2C731;
+    }
+    .dama
+    {
+
+        top: 1900px;
+
+    }
+    .proect
+    {
+        top: 1900px;
+
+    }
+    .bloknot
+    {
+
+        top: 1900px;
+
+    }
+    .dostavka
+    {
+
+        top: 1900px;
+
+    }
+    .text_yourcall
+    {
+        position: absolute;
+        width: 25%;
+        height: 84px;
+        top: 2100px;
+        left: 5%;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 42px;
+        color: #EEE8E8;
+    }
+    .text_consultation
+    {
+        position: absolute;
+        width: 25%;
+        height: 64px;
+        top: 2150px;
+        left: 5%;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 27px;
+
+        color: #8B8686;
+    }
+    .text_design_project
+    {
+        position: absolute;
+        width: 25%;
+        height: 84px;
+        top: 2100px;
+        left: 29%;;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 42px;
+
+        color: #EEE8E8;
+    }
+    .text_measurer
+    {
+        position: absolute;
+        width: 20%;
+        height: 64px;
+        top: 2150px;
+        left: 29%;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 27px;
+
+        color: #8B8686;
+    }
+    .text_design_project_approval
+    {
+        top: 2100px;
+        width: 25%;
+        left: 55%;
+        font-size: 20px;
+    }
+    .text_choice_of_materials
+    {
+        top: 2150px;
+        left: 55%;
+        width: 22%;
+        font-size: 18px;
+    }
+    .text_making_delivery
+    {
+        top: 2100px;
+        left: 80%;
+        width: 20%;
+        font-size: 20px;
+    }
+    .text_time_of_delivery
+    {
+        top: 2150px;
+        left: 80%;
+        width: 20%;
+        font-size: 18px;
+    }
+    .text_why_me
+    {
+        position: absolute;
+        width: 100%;
+        text-align: center;
+        height: 78px;
+        top: 2500px;
+        left: 0;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 48px;
+        line-height: 56px;
+
+        color: rgba(0, 0, 0, 0.79);
+
+    }
+    .galka{
+        top: 2600px;
+    }
+    .zavod{
+        top: 2600px;
+    }
+    .listok{
+        top: 2600px;
+    }
+    .text_quality
+    {
+        top: 2730px;
+        font-size: 32px;
+    }
+    .text_warranty_period
+    {
+        top: 2780px;
+    }
+    .text_own_production
+    {
+        top: 2730px;
+        font-size: 32px;
+    }
+    .text_with1991
+    {
+        top: 2780px;
+    }
+    .text_certified_materials
+    {
+        top: 2730px;
+        font-size: 32px;
+    }
+    .text_ecology
+    {
+        top: 2780px;
+        width: 35%;
+    }
+    .text_subscribe
+    {
+        top: 2900px;
+        width: 40%;
+        font-size: 30px;
+    }
+    .text_email{
+        top: 2925px;
+        left: 47%;
+    }
+    .rect_email{
+        top: 2912px;
+        left: 45%;
+    }
+    .button_subscribe{
+        top: 2912px;
+        left: 75%;
+    }
+}
+@media screen and (min-width: 1621px) and (max-width: 1800px) {
+    .blok_topline1{
+        width: 50%;
+    }
+    .blok_topline2{
+        width: 30%;
+    }
+    .blok_nomer{
+        width: 20%;
+    }
+    .imgtpyba{
+        left: 76%;
+    }
+    .imggeolokation{
+        left: 15%;
+    }
+    .imglove{
+        left: 91%;
+    }
+    .imgtelega{
+        left: 93%;
+    }
+    .imgzamok {
+        left: 95%;
+    }
+    .text_custom-made {
+        left: 3%;
+        font-size: 42px;
+        line-height: 42px;
+        top: 1290px;
+    }
+    .text_furniture-making {
+        left: 3%;
+        height: 10px;
+        font-size: 18px;
+        line-height: 20px;
+        top: 1345px;
+    }
+    .hkaf {
+        position: absolute;
+        width: 62.5%;
+        top: 1400px;
+        left: 3%;
+    }
+}
